@@ -29,7 +29,7 @@ body
 }
 #menu a:hover
 {
-    color: #e8e8d9ec;
+    color: #446A46;
     text-decoration-line: underline;
 }
 #conteudo
@@ -51,7 +51,6 @@ body
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    text-indent: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
 footer
@@ -61,4 +60,13 @@ footer
     color: #406112a4;
     font-size: 14px;
     padding: auto;
+}
+.fotos
+{
+    width: 700px;
+    border: 10px solid #FAFDD6 ;
+}
+.contato
+{
+    text-align: center;
 }
